@@ -30,10 +30,10 @@ To understand the news reading behaviour of our peers, we circulated a google fo
 - Preferrance of Topics to be read in news
 ![topics](https://user-images.githubusercontent.com/25324641/92238198-508c3780-eed6-11ea-8f65-a6988c0c301e.png)
 
-- Total reading time spent on newsreading everyday
+- Total reading time spent on newsreading everyday   
 ![total-time](https://user-images.githubusercontent.com/25324641/92243728-88e44380-eedf-11ea-9b9f-d294f1506345.png)
 
-- Preferred article length for reading
+- Preferred article length for reading    
 ![article-length](https://user-images.githubusercontent.com/25324641/92243716-85e95300-eedf-11ea-9534-7d356144f269.png)
 
 ### Literature Review
