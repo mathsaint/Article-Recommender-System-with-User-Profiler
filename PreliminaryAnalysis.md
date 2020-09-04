@@ -31,10 +31,10 @@ To understand the news reading behaviour of our peers, we circulated a google fo
 ![topics](https://user-images.githubusercontent.com/25324641/92238198-508c3780-eed6-11ea-8f65-a6988c0c301e.png)
 
 - Total reading time spent on newsreading everyday
-![total-time](https://user-images.githubusercontent.com/25324641/92238201-5255fb00-eed6-11ea-934b-2f1b0586fb04.png)
+![total-time](https://user-images.githubusercontent.com/25324641/92243728-88e44380-eedf-11ea-9b9f-d294f1506345.png)
 
-- Preferred length of article to be read
-![article-length](https://user-images.githubusercontent.com/25324641/92238207-53872800-eed6-11ea-928a-07d1595ba5ef.png)
+- Preferred article length for reading
+![article-length](https://user-images.githubusercontent.com/25324641/92243716-85e95300-eedf-11ea-9534-7d356144f269.png)
 
 ### Literature Review
 - We went through various surveys and studies conducted by leading news agencies in the world to make thier own recommender systems better.
