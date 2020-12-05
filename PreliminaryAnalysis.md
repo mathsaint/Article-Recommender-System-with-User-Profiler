@@ -18,6 +18,8 @@ According to our scoring metric, **NDTV** was the best source for our news corpu
 
 ### Scraping
 We accessed the NDTV sitemap, and scraped all article URLs using the grep function. This was a program run on terminal (or Command prompt). The output was a list of URLs for NDTV articles that we stored as a .txt file. We have named this file as "consolidatedUrls.txt" for this project. We read this file line by line, and used the **newspaper** package in Python to build a dataframe containing each article's title, text, summary, and keywords. We stored this dataframe as a .csv file. 
+![Terminal Code for Scraping URLs](https://user-images.githubusercontent.com/64702003/101237022-9b973000-36fb-11eb-9538-c3f5939b03bb.jpg)
+
 
 ### Cleaning
 The resulting corpus required extensive cleaning in the pre-processing stage. We used **regex** to remove redundant covid related counters. 
