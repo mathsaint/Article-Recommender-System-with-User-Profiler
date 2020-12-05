@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec  5 12:12:45 2020
-
-@author: king
-"""
 
 import pandas as pd
 # Import the Article Module
@@ -49,5 +42,6 @@ for line in file:
     if count == n:
         break
 file.close() 
+corpus.to_csv("new_corpus.csv")
 
   
